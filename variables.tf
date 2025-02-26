@@ -33,3 +33,7 @@ variable "database_subnet_cidrs" {
 variable "is_peering_required" {
     default = true
 }
+
+# variable "vpc_id_default" {
+#     default = "vpc-083fbf1b32163b429"
+# }
